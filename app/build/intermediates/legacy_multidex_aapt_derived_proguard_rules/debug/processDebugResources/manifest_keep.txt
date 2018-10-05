@@ -1,0 +1,2 @@
+# Referenced at /home/harshit/AndroidStudioProjects/GenuineMeaning/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:55
+-keep class com.genuine_meaning.genuinemeaningpro.onsignall { <init>(...); }

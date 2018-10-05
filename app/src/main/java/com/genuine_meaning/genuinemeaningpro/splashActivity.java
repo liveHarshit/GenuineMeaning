@@ -1,8 +1,8 @@
 package com.genuine_meaning.genuinemeaningpro;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -20,7 +20,7 @@ public class splashActivity extends AppCompatActivity {
         timer.schedule(new TimerTask() {
             @Override
             public void run() {
-                Intent intent=new Intent(splashActivity.this,loginActivity.class);
+                Intent intent = new Intent(splashActivity.this, MainActivity.class);
                 startActivity(intent);
                 finish();
 

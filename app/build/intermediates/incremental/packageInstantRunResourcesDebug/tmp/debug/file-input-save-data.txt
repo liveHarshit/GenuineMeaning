@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 05 15:26:53 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/harshit/AndroidStudioProjects/GenuineMeaning/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
